@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamaa5
 - 👀 I’m interested in networking and distributed systems
-- 🌱 I’m currently learning OpenCL, ECS
+- 🌱 I’m currently learning Linux Kernel, Distributed Databases
 - 📫 How to reach me ...
 
 <!---
